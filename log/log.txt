@@ -1,0 +1,7 @@
+Thu, 03 Oct 2019 20:23:40 log_output.py[line:27] DEBUG logger debug message
+Thu, 03 Oct 2019 20:23:40 log_output.py[line:28] INFO logger info message
+Thu, 03 Oct 2019 20:23:40 log_output.py[line:29] WARNING logger warning message
+Thu, 03 Oct 2019 20:23:40 log_output.py[line:30] ERROR logger error message
+Thu, 03 Oct 2019 20:23:40 log_output.py[line:31] CRITICAL logger critical message
+Thu, 03 Oct 2019 20:23:46 log_output.py[line:48] INFO 生成 .image.jpg 临时文件供上层调用
+Thu, 03 Oct 2019 20:23:46 log_output.py[line:48] INFO .image.jpg

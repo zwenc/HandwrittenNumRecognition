@@ -1,0 +1,78 @@
+QWidget{
+    /*background-color: rgb(237, 248, 255);*/
+}
+QWidget#widget_3{
+    border:1px solid rgb(180, 180, 180);
+    /*background-color: rgb(237, 248, 255);*/
+
+}
+QWidget#widget_2{
+    border:1px solid rgb(180, 180, 180);
+}
+QWidget#widget_4{
+    border:1px solid rgb(180, 180, 180);
+}
+
+QPushButton{
+    color:rgb(0,0,0);
+    background-color:#acffaf;
+    border-radius:10px;
+}
+
+QPushButton:hover{
+    background-color:#c4ffdf;
+}
+
+QPushButton:pressed{
+    background-color:#84aeb4;
+    border: None;
+}
+
+QLineEdit{
+border:1px solid rgb(180, 180, 180);
+background: rgb(230,230,230);
+border-radius: 4px;
+}
+
+QLineEdit::hover {
+    color:green;
+    border-color:rgb(50,180,40);
+}
+
+QCheckBox
+{
+    height:24px;
+    font-size:14px;
+    border-radius:2px;
+}
+
+QComboBox{
+    border:1px solid rgb(180, 180, 180);
+    background: rgb(230,230,230);
+    border-radius: 4px;
+}
+QComboBox::hover{
+    color:green;
+    border-color:rgb(50,180,40);
+}
+QComboBox::drop-down{
+    width: 25px;
+    border: none;
+    background: transparent;
+}
+
+QHeaderView::section{
+    /*font-size:14px;*/
+    /*color:#FFFFFF;*/
+    /*background:#60669B;*/
+    border:none;
+    text-align:left;
+    min-height:30px;
+    max-height:49px;
+    margin-left:0px;
+    padding-left:0px;
+}
+
+
+
+

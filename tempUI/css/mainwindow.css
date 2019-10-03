@@ -1,0 +1,46 @@
+QWidget{
+    background-color: rgb(237, 248, 255);
+    border:1px solid rgb(180, 180, 180);
+}
+
+QPushButton{
+    color:rgb(0,0,0);
+    background-color:#acffaf;
+    border-radius:10px;
+    border:0px solid rgb(180, 180, 180);
+}
+
+QPushButton:hover{
+    background-color:#c4ffdf;
+}
+
+QPushButton:pressed{
+    background-color:#84aeb4;
+    border: None;
+}
+
+QCheckBox
+{
+    border:0px solid rgb(180, 180, 180);
+    height:24px;
+    font-size:14px;
+    border-radius:2px;
+}
+
+QComboBox{
+    /*border:1px solid rgb(180, 180, 180);*/
+    background: rgb(230,230,230);
+    border-radius: 4px;
+}
+QComboBox::hover{
+    color:green;
+    border-color:rgb(50,180,40);
+}
+QComboBox::drop-down{
+    width: 25px;
+    border: none;
+    background: transparent;
+}
+
+
+
